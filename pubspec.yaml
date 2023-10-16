@@ -1,7 +1,7 @@
 name: my_sample_package
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/RMSumanth/my_sample_package.git
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
